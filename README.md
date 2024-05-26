@@ -5,4 +5,6 @@
 ```
 I am learning Github
 ```
-[Our Website Link](https://demo-website-one-phi.vercel.app/)
+[Our Website Link by Vercel](https://demo-website-one-phi.vercel.app/)
+
+[Our Website Link on Github](https://ishant149.github.io/demo-website/)
